@@ -1,6 +1,6 @@
-package hw12;
+package hw13;
 
-public class class12 {
+public class class13 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
